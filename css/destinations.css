@@ -1,0 +1,17 @@
+/* CSS Document */
+#serviceList{}
+h4{ margin:1px; padding:3px; /*background:#D6F29E; */border-bottom:1px solid #ccc;}
+#dispList{}
+ul{margin:0; padding:0; margin-left:20px;}
+.packagelist{ border:1px solid #eee;}
+.packagedisp{ border:1px solid #ccc; padding:3px; /*background:#f9f9f9; margin:3px 3px 0px 3px;*/}
+.packagelist th{background:#ccc;}
+.packagelist td{ /*background:#f9f9f9;*/border:1px solid #eee;}
+.description table, .description table td{ border:1px solid #ccc; font-size:12px;}
+.Packagetitle{ border-bottom:1px solid #cc3300; text-transform:uppercase;}
+span.from,span.to{ border-bottom:1px dashed #ccc;}
+.smallgrey{font-size:0.8em}
+span.day{ font-weight:bold; color:#CC3300;}
+table.rate{}
+p{margin:5px; padding:5px}
+p a:link, p a:visited{color:#fff;padding:5px}
